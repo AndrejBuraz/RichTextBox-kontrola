@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\RichTextBoxKontrola\RichTextBoxKontrola\bin\Debug\net6.0-windows\RichTextBoxKontrola.exe
+C:\Users\HP\source\repos\RichTextBoxKontrola\RichTextBoxKontrola\bin\Debug\net6.0-windows\RichTextBoxKontrola.deps.json
+C:\Users\HP\source\repos\RichTextBoxKontrola\RichTextBoxKontrola\bin\Debug\net6.0-windows\RichTextBoxKontrola.runtimeconfig.json
+C:\Users\HP\source\repos\RichTextBoxKontrola\RichTextBoxKontrola\bin\Debug\net6.0-windows\RichTextBoxKontrola.dll
+C:\Users\HP\source\repos\RichTextBoxKontrola\RichTextBoxKontrola\bin\Debug\net6.0-windows\RichTextBoxKontrola.pdb
+C:\Users\HP\source\repos\RichTextBoxKontrola\RichTextBoxKontrola\obj\Debug\net6.0-windows\RichTextBoxKontrola.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\RichTextBoxKontrola\RichTextBoxKontrola\obj\Debug\net6.0-windows\RichTextBoxKontrola.Form1.resources
+C:\Users\HP\source\repos\RichTextBoxKontrola\RichTextBoxKontrola\obj\Debug\net6.0-windows\RichTextBoxKontrola.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\RichTextBoxKontrola\RichTextBoxKontrola\obj\Debug\net6.0-windows\RichTextBoxKontrola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\RichTextBoxKontrola\RichTextBoxKontrola\obj\Debug\net6.0-windows\RichTextBoxKontrola.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\RichTextBoxKontrola\RichTextBoxKontrola\obj\Debug\net6.0-windows\RichTextBoxKontrola.AssemblyInfo.cs
+C:\Users\HP\source\repos\RichTextBoxKontrola\RichTextBoxKontrola\obj\Debug\net6.0-windows\RichTextBoxKontrola.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RichTextBoxKontrola\RichTextBoxKontrola\obj\Debug\net6.0-windows\RichTextBoxKontrola.dll
+C:\Users\HP\source\repos\RichTextBoxKontrola\RichTextBoxKontrola\obj\Debug\net6.0-windows\refint\RichTextBoxKontrola.dll
+C:\Users\HP\source\repos\RichTextBoxKontrola\RichTextBoxKontrola\obj\Debug\net6.0-windows\RichTextBoxKontrola.pdb
+C:\Users\HP\source\repos\RichTextBoxKontrola\RichTextBoxKontrola\obj\Debug\net6.0-windows\RichTextBoxKontrola.genruntimeconfig.cache
+C:\Users\HP\source\repos\RichTextBoxKontrola\RichTextBoxKontrola\obj\Debug\net6.0-windows\ref\RichTextBoxKontrola.dll
